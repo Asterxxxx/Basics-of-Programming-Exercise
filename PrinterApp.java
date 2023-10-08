@@ -15,6 +15,7 @@ public class PrinterApp {
 		System.out.println("Printer App");
 		// Print the creator's name
 		System.out.println("This app is made by: " + creator);
+		// Print the results of addition, subtraction, multiplication, and division
 		System.out.println("The value of number 1 is: " + num1);
 		System.out.println("The value of number 2 is: " + num2);
 		System.out.println("The sum of numbers " + num1 + " and " + num2 + " is: " + addition);
