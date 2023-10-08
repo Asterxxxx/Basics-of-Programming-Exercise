@@ -11,7 +11,9 @@ public class PrinterApp {
 		int addition = num1 + num2;
 		int subtraction = num1 - num2;
 		int division = num1/num2;
+		// Print introductory message
 		System.out.println("Printer App");
+		// Print the creator's name
 		System.out.println("This app is made by: " + creator);
 		System.out.println("The value of number 1 is: " + num1);
 		System.out.println("The value of number 2 is: " + num2);
